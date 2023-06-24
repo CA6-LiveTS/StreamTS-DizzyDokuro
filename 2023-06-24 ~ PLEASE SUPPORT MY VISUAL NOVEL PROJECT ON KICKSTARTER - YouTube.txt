@@ -3,7 +3,16 @@ URL: https://www.youtube.com/watch?v=haOyTHHqUA4
 LiveTs:
 0:00:00 Start
 0:05:10 Zatsudan
-0:05:10 Presentation
+0:05:10 Presentation ~ Phase Connect Visual Novel Project
 0:21:50 Presentation ~ Main Character 
 0:23:23 @TS ~ Sorry origin
 0:23:36 Presentation ~ Mrs. Fujikura
+0:36:39 Presentation ~ Mrs. Rinkou
+0:49:47 Presentation ~ Mrs. Maemi
+0:53:08 Presentation ~ Mrs. Pipkin
+0:57:30 Presentation ~ Gameplay Features
+0:58:42 Presentation ~ What I am Asking For
+1:04:31 Presentation ~ Curruption Mode
+1:10:05 Presentation ~ Thanks
+1:10:33 Ending
+1:11:14 End
