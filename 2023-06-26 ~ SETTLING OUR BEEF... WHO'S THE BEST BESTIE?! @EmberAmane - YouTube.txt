@@ -2,14 +2,15 @@
 URL: https://www.youtube.com/watch?v=jj-AifPUsAw
 LiveTs:
 0:00:00 Start
+0:01:22 Zatsudan ~ Loading Screen
 0:05:16 Zatsudan
 0:06:43 Zatsudan ~ What we are doing today
 0:12:39 @LiveTS
 0:13:10 Zatsudan ~ Dizzy first memory of Ember
 0:14:25 Zatsudan ~ How it usualy goes (morning call)
 0:16:55 Game Rules
-0:18:16 Question 1 - Favorite Food
-0:23:34 Question 2 - Favorite Hobbie
+0:18:16 Question ~ Favorite Food
+0:23:34 Question ~ Favorite Hobbie
 0:27:30 @TS ~ Ember Secret
 0:29:25 @TS ~ Ember like Mrs. Fujikura
 0:30:24 Question ~ Perfect Getaway
@@ -40,5 +41,12 @@ LiveTs:
 2:15:20 @TS ~ Shiina Cooking
 2:16:43 @TS ~ How to cut a bellpeper
 2:19:36 Question ~ Best trait
+2:29:01 Question ~ Dream as a little child
+2:38:31 Question ~ Do you remember your childhood
+2:39:33 Question ~ Worst you got in trouble for
+2:48:03 Question ~ Greatest fear
+2:54:14 End
+
+
 
 
