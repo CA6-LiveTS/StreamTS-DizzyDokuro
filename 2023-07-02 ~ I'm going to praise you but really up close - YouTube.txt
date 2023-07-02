@@ -36,6 +36,6 @@ LiveTs:
 1:00:12 !TS ~ What a good boy
 1:00:27 !TS ~ What a good Girl
 1:03:23 !TS ~ Let's have another good week
-1:04:04 End ~ Kiss
+1:04:04 !TS ~ Kiss
 1:04:22 Ending
 1:04:22 End
