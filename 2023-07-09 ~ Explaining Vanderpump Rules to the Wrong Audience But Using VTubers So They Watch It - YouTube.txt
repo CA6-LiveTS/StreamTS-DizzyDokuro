@@ -6,15 +6,15 @@ LiveTs:
 0:05:45 Zatsudan
 0:06:03 !TS ~ Hi Love Bugs
 0:07:21 !TS ~ Today
-0:08:02 !TS ~ What Dizzy did this weekend
+0:08:02 !TS ~ What did Dizzy this weekend
 0:08:24 !TS ~ Forgot to do her schedule
 0:08:45 !TS ~ Skin her knee
 0:10:40 !TS ~ Watched old barbies movies
 0:13:52 !TS ~ Phase connect TTRPG
-0:15:23 !TS ~ Like staying at home saturday
-0:15:37 !TS ~ Dizzy hates monday
+0:15:23 !TS ~ Like staying at home Saturday
+0:15:37 !TS ~ Dizzy hates Monday
 0:16:55 !TS ~ Parasite Noise ?
-0:18:15 Presentation ~ Vanderpump rules but it's anime
+0:18:15 Presentation ~ Vanderpump rules, but it's anime
 0:18:17 !TS ~ Parasite Noise!
 0:19:43 !TS ~ Disclaimer
 0:20:18 Presentation ~ Agenda
@@ -49,9 +49,10 @@ LiveTs:
 1:06:20 !TS ~ Season 9
 1:07:27 !TS ~ Season 10
 1:10:12 !TS ~ Season 10 - Scandoval
-
-
-
-
-
-
+1:14:39 !TS ~ Tom Sandoval First Apologie message
+1:18:22 Presentation ~ Questions?
+1:20:05 !TS ~ What would mini Dokuro say about this
+1:20:54 !TS ~ Membership celebration stream tomorrow
+1:21:01 !TS ~ Bye
+1:21:19 Ending
+1:21:56 End
